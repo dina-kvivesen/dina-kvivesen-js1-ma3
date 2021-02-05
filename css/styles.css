@@ -1,0 +1,21 @@
+body {
+  font-family: "Gill Sans";
+  font-size: 20px;
+  background-color: #76268c;
+}
+h1 {
+  margin-left: 1rem;
+}
+.results {
+  display: flex;
+  flex-wrap: wrap;
+}
+.result {
+  margin: 1rem;
+  padding: 1rem;
+  width: 350px;
+  border: 1px solid black;
+  border-radius: 1rem;
+  background-color: #f2a81d;
+  list-style: none;
+}
